@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on anthonytobi.dev | Lawyer &amp; Developer</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on anthonytobi.dev | Lawyer &amp; Developer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Mar 2024 08:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tenanto</title>
+      <link>http://localhost:1313/products/tenanto/</link>
+      <pubDate>Sun, 24 Mar 2024 08:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/products/tenanto/</guid>
+      <description>A robust tenant management software engineered specifically for the Nigerian real estate market.</description>
+    </item>
+    <item>
+      <title>AI Agent for Debugging Code</title>
+      <link>http://localhost:1313/products/ai-agent/</link>
+      <pubDate>Sat, 23 Mar 2024 08:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/products/ai-agent/</guid>
+      <description>An intelligent agent built with Python and the Google GenAI SDK to assist in code debugging.</description>
+    </item>
+    <item>
+      <title>Freelance Contract Prompt Pack</title>
+      <link>http://localhost:1313/products/freelance-contract-prompt-pack/</link>
+      <pubDate>Sat, 23 Mar 2024 08:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/products/freelance-contract-prompt-pack/</guid>
+      <description>Draft clearer client agreements faster without starting from scratch every time.</description>
+    </item>
+    <item>
+      <title>Legal PDF Analysis Tool</title>
+      <link>http://localhost:1313/products/legal-pdf-analysis-tool/</link>
+      <pubDate>Sat, 23 Mar 2024 08:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/products/legal-pdf-analysis-tool/</guid>
+      <description>A local tool for organizing incoming legal PDFs, generating clean document indexes, and preparing files for review.</description>
+    </item>
+    <item>
+      <title>Why I became a Software Developer after Law School</title>
+      <link>http://localhost:1313/blog/first-post/</link>
+      <pubDate>Sat, 23 Mar 2024 08:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/blog/first-post/</guid>
+      <description>The intersection of law and technology is where the future of compliance and business operates. Here is my journey from Nigeria to Lithuania, bridging both worlds.</description>
+    </item>
+    <item>
+      <title>HashClerk Backend</title>
+      <link>http://localhost:1313/products/hashclerk/</link>
+      <pubDate>Fri, 22 Mar 2024 08:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/products/hashclerk/</guid>
+      <description>A document integrity backend system built entirely in Go.</description>
+    </item>
+    <item>
+      <title>Post 3</title>
+      <link>http://localhost:1313/posts/post-3/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/post-3/</guid>
+      <description>&lt;p&gt;Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum. Deserunt esse cillum Lorem non magna adipisicing mollit amet consequat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Post 2</title>
+      <link>http://localhost:1313/posts/post-2/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/post-2/</guid>
+      <description>&lt;p&gt;Anim eiusmod irure incididunt sint cupidatat. Incididunt irure irure irure nisi ipsum do ut quis fugiat consectetur proident cupidatat incididunt cillum. Dolore voluptate occaecat qui mollit laborum ullamco et. Ipsum laboris officia anim laboris culpa eiusmod ex magna ex cupidatat anim ipsum aute. Mollit aliquip occaecat qui sunt velit ut cupidatat reprehenderit enim sunt laborum. Velit veniam in officia nulla adipisicing ut duis officia.&lt;/p&gt;&#xA;&lt;p&gt;Exercitation voluptate irure in irure tempor mollit Lorem nostrud ad officia. Velit id fugiat occaecat do tempor. Sit officia Lorem aliquip eu deserunt consectetur. Aute proident deserunt in nulla aliquip dolore ipsum Lorem ut cupidatat consectetur sit sint laborum. Esse cupidatat sit sint sunt tempor exercitation deserunt. Labore dolor duis laborum est do nisi ut veniam dolor et nostrud nostrud.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Post 1</title>
+      <link>http://localhost:1313/posts/post-1/</link>
+      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/post-1/</guid>
+      <description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;p&gt;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am Anthony Orobosan Tobi, a Software Developer and Legal Technology professional from Nigeria, currently based in Vilnius, Lithuania.&lt;/p&gt;&#xA;&lt;p&gt;My journey is unconventional. I spent over a decade as a Legal Officer and Company Secretary in Nigeria, managing board governance and drafting commercial contracts. However, I consistently found myself drawn to the backend systems that underpinned this work. This curiosity led me to pursue an LL.M. in LegalTech at Mykolas Romeris University and dive deep into software engineering.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;I am always open to discussing software engineering roles, collaboration on open-source projects, or consulting opportunities.&lt;/p&gt;&#xA;&lt;p&gt;You can reach me directly below:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:hello@anthonytobi.dev&#34;&gt;hello@anthonytobi.dev&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://linkedin.com/in/anthony-t-33084622b&#34;&gt;linkedin.com/in/anthony-t-33084622b&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/anthonytobiesq&#34;&gt;github.com/anthonytobiesq&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

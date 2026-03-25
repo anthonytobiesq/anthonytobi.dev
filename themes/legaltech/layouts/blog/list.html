@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="container page-content">
+  <h1>Blog & Insights</h1>
+  <div class="post-list">
+    {{ range .Paginator.Pages }}
+    <article class="post-preview">
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <div class="meta">{{ .Date.Format "January 2, 2006" }}</div>
+      <p>{{ .Summary }}</p>
+      <a href="{{ .RelPermalink }}" class="read-more">Read Full Article &rarr;</a>
+    </article>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

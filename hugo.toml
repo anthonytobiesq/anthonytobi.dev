@@ -1,0 +1,4 @@
+baseURL = 'https://anthonytobi.dev/'
+languageCode = 'en-us'
+title = 'anthonytobi.dev | Lawyer & Developer'
+theme = 'legaltech'

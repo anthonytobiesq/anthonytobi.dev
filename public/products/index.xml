@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on anthonytobi.dev | Lawyer &amp; Developer</title>
+    <link>http://localhost:1313/products/</link>
+    <description>Recent content in Products on anthonytobi.dev | Lawyer &amp; Developer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Mar 2024 08:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tenanto</title>
+      <link>http://localhost:1313/products/tenanto/</link>
+      <pubDate>Sun, 24 Mar 2024 08:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/products/tenanto/</guid>
+      <description>A robust tenant management software engineered specifically for the Nigerian real estate market.</description>
+    </item>
+    <item>
+      <title>AI Agent for Debugging Code</title>
+      <link>http://localhost:1313/products/ai-agent/</link>
+      <pubDate>Sat, 23 Mar 2024 08:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/products/ai-agent/</guid>
+      <description>An intelligent agent built with Python and the Google GenAI SDK to assist in code debugging.</description>
+    </item>
+    <item>
+      <title>Freelance Contract Prompt Pack</title>
+      <link>http://localhost:1313/products/freelance-contract-prompt-pack/</link>
+      <pubDate>Sat, 23 Mar 2024 08:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/products/freelance-contract-prompt-pack/</guid>
+      <description>Draft clearer client agreements faster without starting from scratch every time.</description>
+    </item>
+    <item>
+      <title>Legal PDF Analysis Tool</title>
+      <link>http://localhost:1313/products/legal-pdf-analysis-tool/</link>
+      <pubDate>Sat, 23 Mar 2024 08:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/products/legal-pdf-analysis-tool/</guid>
+      <description>A local tool for organizing incoming legal PDFs, generating clean document indexes, and preparing files for review.</description>
+    </item>
+    <item>
+      <title>HashClerk Backend</title>
+      <link>http://localhost:1313/products/hashclerk/</link>
+      <pubDate>Fri, 22 Mar 2024 08:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/products/hashclerk/</guid>
+      <description>A document integrity backend system built entirely in Go.</description>
+    </item>
+  </channel>
+</rss>

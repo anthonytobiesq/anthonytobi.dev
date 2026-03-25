@@ -1,0 +1,31 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="container">
+    <h1><span class="highlight">Software Developer</span> & Automation Specialist.</h1>
+    <p class="hero-subtitle">Based in Vilnius, Lithuania.<br>I build robust backends in Go and Python, specializing in workflow automation, document integrity, and AI tooling. With a foundational background in law, I uniquely bridge the gap between complex logic and technical compliance.</p>
+    <div class="hero-actions">
+      <a href="{{ "about/" | relURL }}" class="btn btn-primary">More About Me</a>
+      <a href="{{ "products/" | relURL }}" class="btn btn-outline">View Projects</a>
+    </div>
+  </div>
+</section>
+
+<section class="upcoming-products">
+  <div class="container">
+    <h2>Upcoming Products</h2>
+    <div class="product-grid">
+      {{ range first 3 (where .Site.RegularPages "Section" "products") }}
+      <div class="product-card glass">
+        <div class="card-status">{{ .Params.status }}</div>
+        {{ if .Params.image }}
+        <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" style="border-radius: 8px; margin-top: 15px; margin-bottom: 5px; width: 100%; object-fit: cover;">
+        {{ end }}
+        <h3>{{ .Title }}</h3>
+        <p>{{ .Summary }}</p>
+        <a href="{{ .RelPermalink }}" class="card-link">Details &rarr;</a>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

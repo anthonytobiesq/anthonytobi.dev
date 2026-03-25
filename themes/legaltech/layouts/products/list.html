@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="container page-content">
+  <h1>Products Portfolio</h1>
+  <p class="section-desc">Software and tools currently in development or available for use.</p>
+  <div class="product-grid">
+    {{ range .Pages }}
+    <div class="product-card glass">
+      <div class="card-status">{{ .Params.status }}</div>
+      {{ if .Params.image }}
+      <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" style="border-radius: 8px; margin-top: 15px; margin-bottom: 5px; width: 100%; object-fit: cover;">
+      {{ end }}
+      <h3>{{ .Title }}</h3>
+      <p>{{ .Summary }}</p>
+      <a href="{{ .RelPermalink }}" class="card-link">Details &rarr;</a>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
