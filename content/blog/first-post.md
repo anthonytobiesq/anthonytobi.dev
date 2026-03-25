@@ -6,7 +6,7 @@ summary: "The intersection of law and technology is where the future of complian
 
 The decision to learn software development wasn't a sudden pivot away from law; it was an evolution.
 
-As a lawyer originating from Nigeria and now practicing in Europe, I observed firsthand how many legal processes were bottlenecked by archaic software. Contracts, compliance checks, and IP tracking are heavily text-based systems that are ripe for automation.
+As a lawyer from Nigeria now based in Lithuania, I observed how many legal processes were bottlenecked by archaic software. Contracts, compliance checks, and IP tracking are heavily text-based systems that are ripe for automation.
 
 ### The Intersection of Law and Code
 

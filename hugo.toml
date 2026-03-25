@@ -2,3 +2,21 @@ baseURL = 'https://anthonytobi.dev/'
 languageCode = 'en-us'
 title = 'anthonytobi.dev | Lawyer & Developer'
 theme = 'legaltech'
+
+[params]
+  [[params.socials]]
+    name = 'GitHub'
+    url = 'https://github.com/anthonytobiesq'
+    handle = '@anthonytobiesq'
+  [[params.socials]]
+    name = 'Twitter'
+    url = 'https://x.com/anthonytobidev'
+    handle = '@anthonytobidev'
+  [[params.socials]]
+    name = 'LinkedIn'
+    url = 'https://www.linkedin.com/in/anthonytobidev'
+    handle = 'linkedin.com/in/anthonytobidev'
+  [[params.socials]]
+    name = 'TikTok'
+    url = 'https://www.tiktok.com/@anthonytobidev'
+    handle = '@anthonytobidev'
