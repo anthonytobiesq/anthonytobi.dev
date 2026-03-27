@@ -29,6 +29,52 @@
   <article class="post-single">
     <h1>JavaScript Haunts Me Till This Day</h1>
     <div class="meta">March 27, 2026</div>
+    
+    
+    <div class="share-bar glass" aria-label="Share this article">
+      <span class="share-label">Share this post</span>
+      <div class="share-actions">
+        <a
+          class="share-link"
+          href="https://x.com/intent/tweet?text=JavaScript&#43;Haunts&#43;Me&#43;Till&#43;This&#43;Day&#43;http%3A%2F%2Flocalhost%3A1313%2Fblog%2Fjavascript-haunts-me-to-this-day%2F"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          X
+        </a>
+        <a
+          class="share-link"
+          href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Flocalhost%3A1313%2Fblog%2Fjavascript-haunts-me-to-this-day%2F"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          LinkedIn
+        </a>
+        <a
+          class="share-link"
+          href="https://wa.me/?text=JavaScript&#43;Haunts&#43;Me&#43;Till&#43;This&#43;Day&#43;http%3A%2F%2Flocalhost%3A1313%2Fblog%2Fjavascript-haunts-me-to-this-day%2F"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          WhatsApp
+        </a>
+        <a
+          class="share-link"
+          href="mailto:?subject=JavaScript&#43;Haunts&#43;Me&#43;Till&#43;This&#43;Day&body=I%20thought%20you%20might%20enjoy%20this%20post%3a%250A%250Ahttp%3a%2f%2flocalhost%3a1313%2fblog%2fjavascript-haunts-me-to-this-day%2f"
+        >
+          Email
+        </a>
+        <button
+          class="share-link share-copy"
+          type="button"
+          data-share-url="http://localhost:1313/blog/javascript-haunts-me-to-this-day/"
+          data-copy-default="Copy Link"
+          data-copy-success="Copied!"
+        >
+          Copy Link
+        </button>
+      </div>
+    </div>
     <div class="content">
       <p><em>Prefer to listen instead? Here is the audio version of the article.</em></p>
 <audio controls preload="metadata" style="width: 100%; margin: 1rem 0 2rem;">
@@ -116,6 +162,31 @@
     </div>
   </article>
 </div>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const copyButton = document.querySelector(".share-copy");
+    if (!copyButton) return;
+
+    copyButton.addEventListener("click", async function () {
+      const url = copyButton.getAttribute("data-share-url");
+      const defaultText = copyButton.getAttribute("data-copy-default") || "Copy Link";
+      const successText = copyButton.getAttribute("data-copy-success") || "Copied!";
+
+      try {
+        await navigator.clipboard.writeText(url);
+        copyButton.textContent = successText;
+        setTimeout(function () {
+          copyButton.textContent = defaultText;
+        }, 1800);
+      } catch (error) {
+        copyButton.textContent = "Copy failed";
+        setTimeout(function () {
+          copyButton.textContent = defaultText;
+        }, 1800);
+      }
+    });
+  });
+</script>
 
   </main>
   <footer>

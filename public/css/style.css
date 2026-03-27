@@ -257,6 +257,48 @@ nav a:hover {
   font-weight: 500;
   letter-spacing: 0.5px;
 }
+.share-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin: 0 0 32px;
+  padding: 18px 20px;
+}
+.share-label {
+  color: #fff;
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+.share-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+.share-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  padding: 10px 14px;
+  border: 1px solid var(--card-border);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.03);
+  color: var(--text-color);
+  font: inherit;
+  font-weight: 600;
+  line-height: 1;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.share-link:hover {
+  color: #fff;
+  border-color: rgba(20, 184, 166, 0.45);
+  background: rgba(20, 184, 166, 0.12);
+}
 .post-preview p {
   color: #94a3b8;
   margin-bottom: 15px;
@@ -329,4 +371,6 @@ footer {
   .btn { width: 100%; text-align: center; }
   .footer-content { justify-content: center; }
   .social-links { justify-content: center; }
+  .share-bar { align-items: flex-start; }
+  .share-actions { width: 100%; }
 }
