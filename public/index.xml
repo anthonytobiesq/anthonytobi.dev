@@ -6,8 +6,15 @@
     <description>Recent content in Home on anthonytobi.dev | Lawyer &amp; Developer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Mar 2024 08:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 08:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JavaScript Haunts Me Till This Day</title>
+      <link>http://localhost:1313/blog/javascript-haunts-me-to-this-day/</link>
+      <pubDate>Fri, 27 Mar 2026 08:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/blog/javascript-haunts-me-to-this-day/</guid>
+      <description>A story about passing on JavaScript years ago, choosing football and law instead, and why I now think more lawyers should learn a little code.</description>
+    </item>
     <item>
       <title>Tenanto</title>
       <link>http://localhost:1313/products/tenanto/</link>

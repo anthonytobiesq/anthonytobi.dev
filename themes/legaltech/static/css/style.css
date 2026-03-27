@@ -86,7 +86,7 @@ nav a:hover {
   font-weight: 800;
   letter-spacing: -1px;
 }
-.highlight {
+.hero .highlight {
   color: var(--accent-teal);
   background: linear-gradient(135deg, var(--accent-teal), var(--accent-emerald));
   -webkit-background-clip: text;
@@ -270,6 +270,38 @@ nav a:hover {
 .content h2 { margin-top: 40px; margin-bottom: 20px; color: #fff; }
 .content p { margin-bottom: 20px; font-size: 1.1rem; }
 .content ul { margin-bottom: 20px; padding-left: 20px; font-size: 1.1rem;}
+.content ol { margin-bottom: 20px; padding-left: 24px; font-size: 1.1rem; }
+.content li { margin-bottom: 8px; }
+.content img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 24px auto;
+  border-radius: 12px;
+  border: 1px solid var(--card-border);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.35);
+}
+.content .highlight {
+  margin: 24px 0;
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  overflow-x: auto;
+  background: #020617;
+}
+.content .highlight pre {
+  margin: 0;
+  padding: 20px;
+  background: transparent;
+}
+.content code {
+  font-family: "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+.content p code,
+.content li code {
+  padding: 0.15rem 0.35rem;
+  border-radius: 6px;
+  background: rgba(148, 163, 184, 0.12);
+}
 .badge { display: inline-block; padding: 5px 10px; background-color: rgba(20, 184, 166, 0.1); color: var(--accent-teal); border-radius: 4px; font-size: 0.85rem; font-weight: 600; text-transform: uppercase; margin-bottom: 30px;}
 
 /* Footer */

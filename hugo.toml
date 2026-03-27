@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'anthonytobi.dev | Lawyer & Developer'
 theme = 'legaltech'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   [[params.socials]]
     name = 'GitHub'
